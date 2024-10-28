@@ -2,12 +2,11 @@ import StaticClassesEnumsExceptions.Calculator;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.*;
-
 import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-
+//Add public class
 public class CalculatorTest {
 
     @BeforeAll
